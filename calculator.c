@@ -1,6 +1,6 @@
 #include <stdio.h>
-int main() {
 
+int main() {
 double a, b, addition, subtraction, multiplication, division;
 printf("\nPodaj pierwsza liczbe: ");
 scanf("%lf", &a);
